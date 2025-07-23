@@ -1,0 +1,2 @@
+client_id: AKIAX52MPYOTPRUCRC22
+  client_secret: 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
