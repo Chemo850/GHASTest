@@ -1,0 +1,3 @@
+- text: |
+    client id = QUJJQUs1MkxQRk9SUFJVQ1JDMjI=
+    UzB1Z041d3YybUJIcitlN0RON2RUcWc0QWE2YjRsNUkwZ0RSZnE5Uw==
