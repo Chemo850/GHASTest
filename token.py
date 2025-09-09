@@ -10,3 +10,6 @@ access_token: 00D6F000002Tjy4!AQgAQK9zwJVvIAe2jK0Gd1SAhMTh0GCfrNk7QKAoSqjmlXwR71
 - text: |
     SECRET_KEY=HRKU-AA7GoieTSqkJnA7rq5_cubkA6rUhLwYdTvHMibbVqF0E_____pdd_E3vdHXI
   apikey: HRKU-AA7GoieTSqkJnA7rq5_cubkA6rUhLwYdTvHMibbVqF0E_____pdd_E3vdHXI
+- text: |
+    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
+  token: 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
